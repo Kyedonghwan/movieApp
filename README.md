@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## github io 에서 빌드된 프로젝트 확인하기 
+
+https://kyedonghwan.github.io/movieApp
+
+
 ## Available Scripts
 
 In the project directory, you can run:
